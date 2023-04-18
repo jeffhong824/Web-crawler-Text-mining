@@ -1,0 +1,5 @@
+Latitude(緯度) = 41.807374137578385N
+Longitude (經度) = 74.07714575297135W
+keyword = food factory
+company_limit = 200
+email_top_x = 1
